@@ -3,3 +3,17 @@
     margin-left: auto;
     margin-right: auto;
 }
+.page-information {
+    color:turquoise;font-size: 1.5em;
+
+}
+.right-sentence {
+    float: right;
+}
+.left-sentence {
+    float: left;
+}
+.spaced-out-sentence {
+    display: flex;
+    justify-content: space-between;
+}
